@@ -1,0 +1,19 @@
+{
+	"name" : "mathieucoletti/project1",
+	"description" : "project1",
+	"minimum-stability": "dev",
+	"repositories" : [{
+            "url": "https://github.com/mathieucoletti/project1.git",
+            "type": "vcs"
+        }
+	],
+	"require" : {
+		"php" : ">=5.4.0",
+		"mathieucoletti/project-epp": "dev-master"
+	},
+	"authors" : [{
+			"name" : "Mathieu Coletti",
+			"email" : "mathieu.coletti@claro.com.br"
+		}
+	]
+}
